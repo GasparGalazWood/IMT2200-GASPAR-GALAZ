@@ -4,4 +4,5 @@
 
 # Redes de Contacto
 Mail UC: gaspargalazwood@estudiante.uc.cl
+/n
 Mail personal: gaspargalazwoodu@gmail.com
