@@ -2,7 +2,7 @@
 
 ♦ Repositorio personal de Gaspar Galaz Wood ♦
 #
-n
+Curso: IMT2200
 # Redes de Contacto
 Mail UC: gaspargalazwood@estudiante.uc.cl ///
 Mail personal: gaspargalazwoodu@gmail.com
