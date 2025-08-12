@@ -1,2 +1,3 @@
 # GASPAR GALAZ WOOD
-# Repositorio personal G-G-W
+
+print("repositorio de gaspar galaz")
